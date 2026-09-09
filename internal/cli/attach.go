@@ -10,9 +10,9 @@ import (
 	"os/user"
 	"strings"
 
-	"github.com/amansingh/agents-cli/internal/config"
-	"github.com/amansingh/agents-cli/internal/sshx"
-	"github.com/amansingh/agents-cli/internal/ui"
+	"github.com/Achno2k/agents-cli/internal/config"
+	"github.com/Achno2k/agents-cli/internal/sshx"
+	"github.com/Achno2k/agents-cli/internal/ui"
 	"github.com/spf13/cobra"
 )
 

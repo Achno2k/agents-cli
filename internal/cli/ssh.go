@@ -4,8 +4,8 @@ import (
 	"context"
 	"strings"
 
-	"github.com/amansingh/agents-cli/internal/config"
-	"github.com/amansingh/agents-cli/internal/sshx"
+	"github.com/Achno2k/agents-cli/internal/config"
+	"github.com/Achno2k/agents-cli/internal/sshx"
 	"github.com/spf13/cobra"
 )
 

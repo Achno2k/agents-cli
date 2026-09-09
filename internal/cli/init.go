@@ -10,11 +10,11 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/amansingh/agents-cli/internal/awsx"
-	"github.com/amansingh/agents-cli/internal/bootstrap"
-	"github.com/amansingh/agents-cli/internal/config"
-	"github.com/amansingh/agents-cli/internal/sshx"
-	"github.com/amansingh/agents-cli/internal/ui"
+	"github.com/Achno2k/agents-cli/internal/awsx"
+	"github.com/Achno2k/agents-cli/internal/bootstrap"
+	"github.com/Achno2k/agents-cli/internal/config"
+	"github.com/Achno2k/agents-cli/internal/sshx"
+	"github.com/Achno2k/agents-cli/internal/ui"
 )
 
 func init() { Register(newInitCmd()) }

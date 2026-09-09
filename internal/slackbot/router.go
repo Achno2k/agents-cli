@@ -4,8 +4,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/amansingh/agents-cli/internal/config"
-	"github.com/amansingh/agents-cli/internal/state"
+	"github.com/Achno2k/agents-cli/internal/config"
+	"github.com/Achno2k/agents-cli/internal/state"
 )
 
 // action is what the router decided to do with one incoming message.

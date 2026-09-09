@@ -1,4 +1,4 @@
-module github.com/amansingh/agents-cli
+module github.com/Achno2k/agents-cli
 
 go 1.25.0
 

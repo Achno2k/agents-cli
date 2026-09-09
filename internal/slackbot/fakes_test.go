@@ -4,8 +4,8 @@ import (
 	"context"
 	"sync"
 
-	"github.com/amansingh/agents-cli/internal/herdr"
-	"github.com/amansingh/agents-cli/internal/state"
+	"github.com/Achno2k/agents-cli/internal/herdr"
+	"github.com/Achno2k/agents-cli/internal/state"
 )
 
 // --- Slack ---
